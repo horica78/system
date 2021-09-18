@@ -100,13 +100,14 @@ $arr[2] = array(1,2,2,0);
 $arr[3] = array(1,2,4,1);
 $al = array(12,1,2,4);*/
 
-
+/*rows of coefficients*/
 $arr[0] = array(1,2,10,1,2,1);
 $arr[1] = array(1,4,3,2,2,1);
 $arr[2] = array(1,2,2,0,2,1);
 $arr[3] = array(1,2,4,1,2,1);
 $arr[4] = array(1,1,1,1,3,2);
 $arr[5] = array(1,1,1,1,3,4);
+/*the column of free terms*/
 $al = array(15,4,5,7,5.5,8.5);
 
 /*
